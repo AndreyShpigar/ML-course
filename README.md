@@ -21,5 +21,5 @@
 6). [Matplotlib](https://matplotlib.org/)  
 7). [Seaborn](https://seaborn.pydata.org/)  
 
-PEP 8 – Style Guide for Python Code:
+PEP 8 – Style Guide for Python Code:  
 1). [PEP 8](https://peps.python.org/pep-0008/)  
