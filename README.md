@@ -20,3 +20,6 @@
 5). [XGBoost](https://xgboost.readthedocs.io/en/stable/), [CatBoost](https://catboost.ai/en/docs/), [LightGBM](https://lightgbm.readthedocs.io/en/stable/)  
 6). [Matplotlib](https://matplotlib.org/)  
 7). [Seaborn](https://seaborn.pydata.org/)  
+
+PEP 8 – Style Guide for Python Code:
+1). [PEP 8](https://peps.python.org/pep-0008/)  
